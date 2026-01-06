@@ -12,4 +12,13 @@
   --bg-s: 0;
   --bg-l: 12%;
   */
+
+  /* Layout */
+  --pre-border-radius: 0rem;
+}
+
+/* Image styles */
+img {
+  border: 0px;
+  padding: 0 0;
 }
