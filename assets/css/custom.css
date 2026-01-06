@@ -2,14 +2,14 @@
   /* Base theme knobs */
   
   /* Light */
-  --bg-h: 30;
-  --bg-s: 10;
-  --bg-l: 84%;
+  --bg-h: 0;
+  --bg-s: 0;
+  --bg-l: 88%;
 
   /* Dark */
   /*
-  --bg-h: 30;
-  --bg-s: 10;
+  --bg-h: 0;
+  --bg-s: 0;
   --bg-l: 12%;
   */
 }
