@@ -1,7 +1,15 @@
 :root {
   /* Base theme knobs */
-  --bg-h: 0;
-  --bg-s: 0%;
-  --bg-l: 12%;
-}
+  
+  /* Light */
+  --bg-h: 30;
+  --bg-s: 10;
+  --bg-l: 84%;
 
+  /* Dark */
+  /*
+  --bg-h: 30;
+  --bg-s: 10;
+  --bg-l: 12%;
+  */
+}
